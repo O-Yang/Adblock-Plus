@@ -3,7 +3,7 @@
 ! Expires: 12 hours
 ! Version: 202111211000
 ! Last Modified: 2021年11月5日15:56:33
-! Homepage: https://github.com/O-Yang
+! Homepage: https://github.com/O-Yang/Adblock-Plus
 
 !  ——————————115规则 —————————— !
 !  ——————————115规则 —————————— !
