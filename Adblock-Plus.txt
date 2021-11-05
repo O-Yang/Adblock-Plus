@@ -28,7 +28,46 @@ javdb.com##div[class="moj-content"]
 
 javfan.one##.__isboostOverContent
 
+!  ——————————百度地图—————————— !
 
+map.baidu.com##div[id="newuilogo"]
+map.baidu.com##div[class=" BMap_cpyCtrl BMap_noprint anchorBL"]
+map.baidu.com##div[class="message-panel-open"]
+!  ——————————PornHub—————————— !
+
+cn.pornhub.com###countryRedirectMessage
+cn.pornhub.com##.abAlertInner
+
+!  ——————————直播—————————— !
+
+douyu.com###ACT5202021Bar-lovePointUpWrap
+douyu.com###js-floatingbarrage-container
+douyu.com##.ACT5202021-logo
+douyu.com##.ACT5202021Bar-pre-bg
+douyu.com##.ACT5202021Bar-tail
+douyu.com##.ActBase-switch
+douyu.com##.Barrage-topFloaterList
+douyu.com##.ChatRank
+douyu.com##.ChatRank-rankWraper
+douyu.com##.ChatRank-tabTitle
+douyu.com##.FansRankInfo.clearfix
+douyu.com##.PlayerToolbar
+douyu.com##.SuperFansGuideTips
+douyu.com##.layout-Player-rank
+douyu.com##div[style="position: relative; overflow: scroll; margin-right: -15px; margin-bottom: -15px; min-height: 15px; max-height: 403px;"]
+huya.com##.game--3vukE-yU-mjmYLSnLDfHYm
+
+!  ——————————桔子AV视频—————————— !
+
+jzavbus.xyz##.ad1.container
+jzavbus.xyz##.btn.btn-info.text-white
+jzavbus.xyz##.card-header.text-danger
+jzavbus.xyz##.card-title
+jzavbus.xyz##.col-12.alert.alert-primary
+jzavbus.xyz##.col-6.col-md-4.col-lg-4.video-col
+jzavbus.xyz##.index-col.align-middle.d-flex.align-items-center.justify-content-between
+jzavbus.xyz##DIV[class="card box-shadow"]
+jzavbus.xyz##div[style="padding:10px 0;text-align: center;"]
 
 
 !  ——————————END —————————— !
