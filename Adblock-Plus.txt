@@ -13,8 +13,7 @@
 !----------超级年费限时购
 115.com###act-enter
 !----------净网2121 严打不良信息
-115.com###js-banner_adsg
-115.com##.ceiling-link-temp
+115.com##DIV[class="ceiling-link-temp"]
 !----------屏蔽新建文件夹
 115.com##DIV[class="top-file-newdir"]
 
