@@ -15,19 +15,18 @@
 
 !  ——————————JAVDB—————————— !
 
-!----------主页横幅🔥 官方App...新網址獲得方法
-javdb.com##div[class="content"]
+!----------主页上横幅🔥 官方App...新網址獲得方法
 javdb.com##nav[class="sub-header"]
-
-javdb.com##.app-desktop-banner
+!----------主页下横幅官方App...
+javdb.com##nav[class="app-desktop-banner"]
+!----------磁力链上官方Telegram 按钮
 javdb.com##.button.is-info.is-outlined.is-small.mb-2
+!----------磁力链上广告
+javdb.com##div[class="moj-content"]
+
+
+
+
 
 
 !  ——————————END —————————— !
-
-
-
-
-
-
-
