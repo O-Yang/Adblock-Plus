@@ -40,21 +40,7 @@ cn.pornhub.com##.abAlertInner
 
 !  ——————————直播—————————— !
 
-douyu.com###ACT5202021Bar-lovePointUpWrap
-douyu.com###js-floatingbarrage-container
-douyu.com##.ACT5202021-logo
-douyu.com##.ACT5202021Bar-pre-bg
-douyu.com##.ACT5202021Bar-tail
-douyu.com##.ActBase-switch
-douyu.com##.Barrage-topFloaterList
-douyu.com##.ChatRank
-douyu.com##.ChatRank-rankWraper
-douyu.com##.ChatRank-tabTitle
-douyu.com##.FansRankInfo.clearfix
-douyu.com##.PlayerToolbar
-douyu.com##.SuperFansGuideTips
-douyu.com##.layout-Player-rank
-douyu.com##div[style="position: relative; overflow: scroll; margin-right: -15px; margin-bottom: -15px; min-height: 15px; max-height: 403px;"]
+
 huya.com##.game--3vukE-yU-mjmYLSnLDfHYm
 
 !  ——————————桔子AV视频—————————— !
