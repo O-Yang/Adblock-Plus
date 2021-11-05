@@ -24,6 +24,8 @@ javdb.com##nav[class="sub-header"]
 !----------主页下横幅官方App...
 javdb.com##nav[class="app-desktop-banner"]
 !----------磁力链上官方Telegram 按钮
+javdb.com##.button.is-info.is-outlined.is-small.modal-button.mb-2
+javdb.com##.button.is-info.is-outlined.is-small.mb-2
 javdb.com##.button.is-info.is-outlined.is-small.mb-2
 !----------磁力链上广告
 javdb.com##div[class="moj-content"]
