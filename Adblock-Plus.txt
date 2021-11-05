@@ -6,12 +6,12 @@
 ! Homepage: https://github.com/O-Yang/Adblock-Plus
 
 !  ——————————115规则 —————————— !
-!  ——————————115规则 —————————— !
 
 !----------主页耳机图标
 115.com##.ibc-music
 !----------超级年费限时购
 115.com###act-enter
+115.com##DIV[class="feature-float"]
 !----------净网2121 严打不良信息
 115.com##DIV[class="ceiling-link-temp"]
 !----------屏蔽新建文件夹
