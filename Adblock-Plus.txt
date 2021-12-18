@@ -54,6 +54,7 @@ jzavbus.xyz##.col-6.col-md-4.col-lg-4.video-col
 jzavbus.xyz##.index-col.align-middle.d-flex.align-items-center.justify-content-between
 jzavbus.xyz##DIV[class="card box-shadow"]
 jzavbus.xyz##div[style="padding:10px 0;text-align: center;"]
-
+jzavbus.xyz##DIV[class="card ad1-left-top"]
+jzavbus.xyz##DIV[class="card ad1-right-top"]
 
 !  ——————————END —————————— !
