@@ -58,8 +58,6 @@ jzavbus.xyz##DIV[class="card ad1-left-top"]
 jzavbus.xyz##DIV[class="card ad1-right-top"]
 
 
-btbdys.com##DIV[class="collapse navbar-collapse"]
-
 
 
 
