@@ -58,9 +58,7 @@ jzavbus.xyz##DIV[class="card ad1-left-top"]
 jzavbus.xyz##DIV[class="card ad1-right-top"]
 
 
-btbdys.com##.nav-link-title.text-twinkle
-
-
+btbdys.com##DIV[class="collapse navbar-collapse"]
 
 
 
