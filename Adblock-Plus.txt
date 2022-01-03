@@ -57,4 +57,19 @@ jzavbus.xyz##div[style="padding:10px 0;text-align: center;"]
 jzavbus.xyz##DIV[class="card ad1-left-top"]
 jzavbus.xyz##DIV[class="card ad1-right-top"]
 
+
+btbdys.com##.nav-link-title.text-twinkle
+
+
+
+
+
+
+
+
+
+
+
+
+
 !  ——————————END —————————— !
