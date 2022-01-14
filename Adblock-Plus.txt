@@ -19,7 +19,8 @@
 !-------------------------------------
 pc.115.com##.list-url-suggest
 pc.115.com##.headline
-
+pc.115.com##DIV[class="list-url-suggest"]
+pc.115.com##DIV[class="headline"]
 
 
 
