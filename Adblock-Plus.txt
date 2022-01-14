@@ -16,6 +16,12 @@
 115.com##DIV[class="ceiling-link-temp"]
 !----------屏蔽新建文件夹
 115.com##DIV[class="top-file-newdir"]
+-------------------------------------
+pc.115.com##.list-url-suggest
+pc.115.com##.headline
+
+
+
 
 !  ——————————JAV—————————— !
 
