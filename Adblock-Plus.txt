@@ -17,12 +17,6 @@
 !----------屏蔽新建文件夹
 115.com##DIV[class="top-file-newdir"]
 !-------------------------------------
-pc.115.com##.list-url-suggest
-pc.115.com##.headline
-pc.115.com##DIV[class="list-url-suggest"]
-pc.115.com##DIV[class="headline"]
-
-
 
 !  ——————————JAV—————————— !
 
@@ -64,10 +58,11 @@ jzavbus.xyz##div[style="padding:10px 0;text-align: center;"]
 jzavbus.xyz##DIV[class="card ad1-left-top"]
 jzavbus.xyz##DIV[class="card ad1-right-top"]
 
+!====================================================================================本地拦截====================================================================================
+!====================================================================================本地拦截====================================================================================
 
-
-
-
+pc.115.com##DIV[class="list-url-suggest"]
+pc.115.com##DIV[class="headline"]
 
 
 
