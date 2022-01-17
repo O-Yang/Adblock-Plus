@@ -58,6 +58,25 @@ jzavbus.xyz##div[style="padding:10px 0;text-align: center;"]
 jzavbus.xyz##DIV[class="card ad1-left-top"]
 jzavbus.xyz##DIV[class="card ad1-right-top"]
 
+jzavbus.com##.ad1.container
+jzavbus.com##.btn.btn-info.text-white
+jzavbus.com##.card-header.text-danger
+jzavbus.com##.card-title
+jzavbus.com##.col-12.alert.alert-primary
+jzavbus.com##.col-6.col-md-4.col-lg-4.video-col
+jzavbus.com##.index-col.align-middle.d-flex.align-items-center.justify-content-between
+jzavbus.com##DIV[class="card box-shadow"]
+jzavbus.com##div[style="padding:10px 0;text-align: center;"]
+jzavbus.com##DIV[class="card ad1-left-top"]
+jzavbus.com##DIV[class="card ad1-right-top"]
+
+
+
+
+
+
+
+
 !====================================================================================本地拦截====================================================================================
 !====================================================================================本地拦截====================================================================================
 
