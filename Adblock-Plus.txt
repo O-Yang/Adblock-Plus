@@ -84,7 +84,7 @@ pc.115.com##DIV[class="list-url-suggest"]
 pc.115.com##DIV[class="headline"]
 
 javbus.com##DIV[class="bcpic2"]
-
+amap.com##DIV[class="amap-copyright"]
 
 
 
