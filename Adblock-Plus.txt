@@ -85,8 +85,9 @@ pc.115.com##DIV[class="headline"]
 
 javbus.com##DIV[class="bcpic2"]
 amap.com##DIV[class="amap-copyright"]
-
-
+class="backgroundImg
+cn.pornhub.com###customSkin
+cn.pornhub.com##.backgroundImg
 
 
 !  ——————————END —————————— !
