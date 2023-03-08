@@ -83,6 +83,8 @@ javbus.com##.alert.alert-info.alert-dismissable.alert-common
 pc.115.com##DIV[class="list-url-suggest"]
 pc.115.com##DIV[class="headline"]
 
+pc.115.com##DIV[class="feature-float"]
+
 javbus.com##DIV[class="bcpic2"]
 amap.com##DIV[class="amap-copyright"]
 class="backgroundImg
