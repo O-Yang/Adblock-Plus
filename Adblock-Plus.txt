@@ -91,5 +91,11 @@ class="backgroundImg
 cn.pornhub.com###customSkin
 cn.pornhub.com##.backgroundImg
 
+v.anxia.com###js_common_mini-dialog
+v.anxia.com##.feature-float
+||act.115.com/assets/2022/1111/portal/jxs_web_home_banner.png
+
+
+
 
 !  ——————————END —————————— !
